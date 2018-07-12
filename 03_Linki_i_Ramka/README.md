@@ -1,0 +1,2 @@
+1. Dodaj listę z linkami do pliku index.html. Do pierwszej grupy dodaj target="_blank", do drugiej nie dodawaj nic. Porównaj wyniki. Pamiętaj o odpowiednim zagnieżdżeniu elementów wewnątrz listy ul. Jeśli nie pamiętasz jak zagnieżdżać elementy, wróć do slajdu "Zagnieżdżanie list" w prezentacji o HTML i CSS.
+2. Dodaj element iframe do pliku index.html. Jako atrybut src ustaw swoją ulubioną stronę sportową.
